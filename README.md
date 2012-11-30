@@ -18,7 +18,9 @@ Copiar el archivo **build-rtvc.make** a su directorio home
 Ejecutar:
  
   drush make build-rtvc.make /var/www/rtvc
+  
   cd /var/www/rtvc
+  
   drush site-install rtvc --db-url=mysql://<database_user>:<database-user-password>@<database host>/<database name>
 
 
