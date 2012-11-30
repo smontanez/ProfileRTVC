@@ -15,7 +15,7 @@ Perfil de instalacion Drupal7 para rtvc radio
 
 Copiar el archivo **build-rtvc.make** a su directorio home
 
-Ejecutar:
+Ejecutar en la línea de comandos:
  
   drush make build-rtvc.make /var/www/rtvc
   
