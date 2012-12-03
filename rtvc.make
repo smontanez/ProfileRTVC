@@ -10,3 +10,4 @@ projects[pathauto][subdir] = contrib
 projects[token][subdir] = contrib
 projects[views][subdir] = contrib
 projects[libraries][subdir] = contrib
+projects[cck][subdir] = contrib
