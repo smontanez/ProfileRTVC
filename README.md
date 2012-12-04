@@ -21,7 +21,7 @@ Ejecutar en la línea de comandos:
   
   cd /var/www/rtvc
   
-  drush site-install rtvc --db-url=mysql://<database_user>:<database-user-password>@<database host>/<database name>
+  drush site-install rtvc --db-url=mysql://<database_user>:<database-user-password>@<database host>/<database name> --db-su=name --db-su-pw=password
 
 
 
