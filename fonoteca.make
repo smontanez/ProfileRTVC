@@ -20,8 +20,4 @@ projects[libraries][subdir] = contrib
 projects[libraries][version] = 2.0
 
 projects[cck][subdir] = contrib
-<<<<<<< HEAD
 projects[cck][version] = 2.x-dev
-=======
-projects[cck][version] = 2.x-dev
->>>>>>> se suben archivos para instalar el profile de RTVC
