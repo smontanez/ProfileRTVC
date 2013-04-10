@@ -21,3 +21,28 @@ projects[libraries][version] = 2.0
 
 projects[cck][subdir] = contrib
 projects[cck][version] = 2.x-dev
+
+projects[date][subdir] = contrib
+projects[date][version] = 2.6
+
+projects[references][subdir] = contrib
+projects[references][version] = 2.1
+
+projects[viewfield][subdir] = contrib
+projects[viewfield][version] = 2.0
+
+projects[calendar][subdir] = contrib
+projects[calendar][version] = 3.4
+
+projects[socialmedia][subdir] = contrib
+projects[socialmedia][version] = 1.0-beta13
+
+projects[widgets][subdir] = contrib
+projects[widgets][version] = 1.0-rc1
+
+projects[timefield][subdir] = contrib
+projects[timefield][version] = 1.0-alpha2
+
+projects[flag][subdir] = contrib
+projects[flag][version] = 2.0
+
