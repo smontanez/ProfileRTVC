@@ -1,4 +1,4 @@
-ProfileRTVC
+1. ProfileRTVC
 ===========
 
 Prueba Profile RTVC
@@ -50,7 +50,7 @@ Ejecutar:
   
   drush site-install rtvc --db-url=mysql://<database_user>:<database-user-password>@<database host>/<database name> --account-name=admin --account-pass=pass
 
-ProfileRTVC
+2. ProfileRTVC
 ===========
 
 ## Requerimientos ##
